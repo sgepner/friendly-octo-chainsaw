@@ -3,5 +3,5 @@
 
 int fun(int a)
 {
-  return pow(2, a);
+  return pow(2, a) + sin(atan(1.0) * a);
 }
