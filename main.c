@@ -4,5 +4,7 @@
 int main()
 {
 	printf("Hello!\n");
-	int c = fun(6);
+	int b = fun(5);
+	printf("%d\n", b);
+	return 0;
 }
